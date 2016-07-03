@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomLayout">
+        <attr name="radius" format="dimension"></attr>
+        <attr name="angle_offset" format="float"></attr>
+    </declare-styleable>
+</resources>
