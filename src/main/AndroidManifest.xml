@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cat.xlagunas.lib">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="cat.xlagunas.animatedFABMenu">
 
     <application android:allowBackup="true" android:label="@string/app_name"
         android:supportsRtl="true">
